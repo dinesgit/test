@@ -1,0 +1,2 @@
+this file is created in vs in test folder in the BRIDGE folder
+note: it is not a resporitary
